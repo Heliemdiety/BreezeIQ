@@ -11,3 +11,6 @@ Finally, the ESP32 adjusts the fan speed based on the model’s prediction, prov
 2)) Run the Python prediction model directly on the ESP32 using frameworks like MicroPython or TensorFlow Lite for on-device AI, allowing the fan to operate independently without needing a laptop.
 3)) Add Wi-Fi control via a mobile app for remote monitoring and manual overrides.
 4)) Integrate voice control using Alexa, Google Assistant, or custom commands.
+
+#wokwi simulation 
+used led as output (as wokwi does not have a motor driver and motor.)
